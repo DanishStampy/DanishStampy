@@ -3,8 +3,6 @@
 #### My Gist https://gist.github.com/DanishStampy
 [Our Organization](https://github.com/lepak-xyz)
 <br>
-[Special Website For You](http://foryou.lepak.xyz/)
-<br><br>
 
 [![DanishStampy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanishStampy)](https://github.com/DanishStampy)
 
