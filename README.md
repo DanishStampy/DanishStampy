@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-#### My Gist https://gist.github.com/DanishStampy
+#### My Gist https://github.com/DanishStampy
+
+- 🔭 I’m currently working on software development project; UKMads.
+- 🌱 I’m currently leaning Laravel and ReactJs.
+- 💬 Ask me about nothing. I'm good with it.
+- 😄 Feel free to educate me if you find any unnecessary code in my repo.
+
+
 [Our Organization](https://github.com/lepak-xyz)
 <br>
 
