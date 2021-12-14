@@ -11,7 +11,9 @@
 [Our Organization](https://github.com/lepak-xyz)
 <br>
 
+<!--START_SECTION:waka-->
 [![DanishStampy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanishStampy)](https://github.com/DanishStampy)
+<!--END_SECTION:waka-->
 
 ![DanishStampy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanishStampy&show_icons=true&theme=tokyonight&hide_border=false)
 
