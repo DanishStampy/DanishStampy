@@ -15,7 +15,10 @@
 ```text
 Week: 08 December, 2021 - 14 December, 2021
 
-
+Blade Template   3 hrs 4 mins    ██████████████░░░░░░░░░░░   55.60 % 
+PHP              2 hrs 12 mins   ██████████░░░░░░░░░░░░░░░   40.13 % 
+SCSS             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+JSON             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 <!--END_SECTION:waka-->
 
