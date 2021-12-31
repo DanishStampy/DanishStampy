@@ -13,7 +13,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
 Blade Template   1 hr 54 mins    ███████████░░░░░░░░░░░░░░   44.43 % 
 Python           52 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
