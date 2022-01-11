@@ -13,7 +13,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2022 - 09 January, 2022
+Week: 04 January, 2022 - 10 January, 2022
 
 Blade Template   16 hrs 4 mins   ████████████▒░░░░░░░░░░░░   49.62 % 
 PHP              12 hrs 19 mins  █████████▓░░░░░░░░░░░░░░░   38.03 % 
