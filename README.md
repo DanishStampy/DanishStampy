@@ -30,18 +30,18 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-
-[Our Organization](https://github.com/lepak-xyz)
-
 <br>
 <br>
 
 ## 📊 My Github Stats
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/DanishStampy/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DanishStampy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DanishStampy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DanishStampy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DanishStampy&theme=material-palenight&hide_border=true&stroke=0000"/>
     </a>
+    <a href="https://github.com/DanishStampy/github-readme-stats"><img alt="DanishStampy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanishStampy&show_icons=true&count_private=true&theme=material-palenight&hide_border=true" /></a>
+  <a href="https://github.com/DanishStampy/github-readme-stats"><img alt="DanishStampy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishStampy&langs_count=8&count_private=true&layout=compact&theme=material-palenight&hide_border=true" /></a>
+    </br>
 
 
 <!--START_SECTION:waka-->
@@ -56,16 +56,13 @@ JSON             27 mins         ▓░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-![DanishStampy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanishStampy&show_icons=true&theme=tokyonight&hide_border=false)
 
-![DanishStampy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanishStampy&langs_count=10&layout=compact)
-  
  </p>
  
  <br>
 <br>
  
-<a href="https://github.com/DanishStampy/github-readme-activity-graph"><img alt="DanishStampy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanishStampy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DanishStampy/github-readme-activity-graph"><img alt="DanishStampy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanishStampy&bg_color=000000&color=ffffff&line=9f4bff&point=c08ef9&hide_border=true" /></a>
 
 <br>
 <br>
@@ -76,4 +73,12 @@ JSON             27 mins         ▓░░░░░░░░░░░░░░�
 <a href = "https://www.linkedin.com/in/danish-irfan-96a9921a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/danishstampy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
+<br>
+<br>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=DanishStampy">
+</a>
+<a href="https://github.com/DanishStampy?tab=followers"><img src="https://img.shields.io/github/followers/DanishStampy?label=Followers&style=social" alt="GitHub Badge"></a>
 
