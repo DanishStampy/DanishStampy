@@ -62,7 +62,7 @@ JSON             27 mins         ▓░░░░░░░░░░░░░░�
  <br>
 <br>
  
-<a href="https://github.com/DanishStampy/github-readme-activity-graph"><img alt="DanishStampy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanishStampy&bg_color=000000&color=ffffff&line=9f4bff&point=c08ef9&hide_border=true" /></a>
+<a href="https://github.com/DanishStampy/github-readme-activity-graph"><img alt="DanishStampy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanishStampy&theme=material-palenight&hide_border=true" /></a>
 
 <br>
 <br>
