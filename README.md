@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on software development project; **[UKMads](https://ukmads.lepak.xyz/)**.
+- 🔭 I’m currently working on software development project; <strike>**[UKMads](https://ukmads.lepak.xyz/)**</strike>.
 - 🌱 I’m currently learning Laravel and MERN stack.
 - 💬 Ask me about nothing. I'm good with it.
 - 😄 Feel free to educate me if you find any unnecessary code in my repo.
