@@ -4,8 +4,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on software development project; **PPSWE (Final Year Project)**.
-- 🌱 I’m currently learning Laravel, MERN stack and VueJs.
+- 🔭 I’m currently working on AIC Project; vGym.
+- 🌱 I’m currently learning Laravel and VueJs.
 - 💬 Ask me about nothing. I'm good with it.
 - 😄 Feel free to educate me if you find any unnecessary code in my repo.
 - 🗄️  Our organization, **[Lepak](https://github.com/lepak-xyz)**
