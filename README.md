@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on AIC Project; vGym.
+<!-- - 🔭 I’m currently working on AIC Project; vGym. -->
 - 🌱 I’m currently learning Laravel and VueJs.
 - 💬 Ask me about nothing. I'm good with it.
 - 😄 Feel free to educate me if you find any unnecessary code in my repo.
