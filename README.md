@@ -1,7 +1,3 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">, I'm Danish</h1>
-<h3 align="center">I'm a software engineering student from UKM, Malaysia.</h3>
-<br>
-
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on AIC Project; vGym. -->
@@ -13,11 +9,12 @@
 <br>
 <br>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages/Tools/Library/Package:
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="48" height="48"/> </a>
+    <a href="https://laravel-livewire.com/"  target="_blank"> <img src="https://laravel-livewire.com/img/twitter.png" width="48" height="48"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/344/vue-js.png" width="48" height="48"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -63,11 +60,7 @@ Other            0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  </p>
  
  <br>
-<br>
- 
-<a href="https://github.com/DanishStampy/github-readme-activity-graph"><img alt="DanishStampy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanishStampy&theme=material-palenight&hide_border=true" /></a>
 
-<br>
 <br>
 
 ## Connect with me:
