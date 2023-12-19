@@ -1,7 +1,7 @@
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on AIC Project; vGym. -->
-- 🌱 I’m currently learning Laravel and VueJs.
+- 🌱 I’m currently learning React Native.
 - 💬 Ask me about nothing. I'm good with it.
 - 😄 Feel free to educate me if you find any unnecessary code in my repo.
 - 🗄️  Our organization, **[Lepak](https://github.com/lepak-xyz)**
